@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Atishay528
-- 👀 I’m interested in web developement
-- 🌱 I’m currently learning Full stack web developement
+- 👀 I’m software engineer
+- 🌱 I’m enhancing my technologies
 - 📫 How to reach me https://github.com/Atishay528
 
 <!---
